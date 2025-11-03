@@ -5,9 +5,9 @@ I'm currently a Master's student in Computer Science at Northeastern University.
 I'm passionate about solving real-world problems with innovative approaches.
 
 ### 🏠 My Projects:
-**[ETF recommendation app](https://github.com/vanessazlh/ETF_Recommendation_](https://github.com/vanessazlh/ETF_Recommendation)**: A data-driven investment platform that delivers personalized ETF recommendations using financial modeling.
+**[ETF recommendation app](https://github.com/vanessazlh/ETF_Recommendation_)**: A data-driven investment platform that delivers personalized ETF recommendations using financial modeling.
 
-**[Write streak](https://github.com/vanessazlh/writestreak](https://github.com/vanessazlh/writestreak)**: A web-based tool designed for language learners to receive feedback on their writing in a foreign language.
+**[Write streak](https://github.com/vanessazlh/writestreak)**: A web-based tool designed for language learners to receive feedback on their writing in a foreign language.
 
 ### 📫 How to reach me:
 **Email:** linghe0225@gmail.com  
